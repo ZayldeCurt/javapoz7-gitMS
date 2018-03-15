@@ -10,6 +10,6 @@ public class Application {
         System.out.println(calculator.sum(randomGen.getSmallNumber(),randomGen.getBigNumber()));
         System.out.println(calculator.divide(randomGen.getBigNumber(),randomGen.getSmallNumber()));
         System.out.println("second");
-        System.out.println("blabla");
+        System.out.println(calculator.factorial(4));
     }
 }
