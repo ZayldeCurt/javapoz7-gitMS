@@ -12,6 +12,8 @@ public class Application {
         System.out.println("second");
         System.out.println(calculator.factorial(4));
 
+        System.out.println("something else");
+
         System.out.println("another something else");
     }
 }
