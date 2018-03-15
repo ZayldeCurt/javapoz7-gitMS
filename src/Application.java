@@ -7,5 +7,6 @@ public class Application {
         Calculator calculator = new Calculator();
         System.out.println(calculator.sum(3,4));
         System.out.println(calculator.divide(4,5));
+        System.out.println("blabla");
     }
 }
