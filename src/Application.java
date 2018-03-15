@@ -11,5 +11,7 @@ public class Application {
         System.out.println(calculator.divide(randomGen.getBigNumber(),randomGen.getSmallNumber()));
         System.out.println("second");
         System.out.println(calculator.factorial(4));
+
+        System.out.println("another something else");
     }
 }
