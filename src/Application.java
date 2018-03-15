@@ -15,5 +15,6 @@ public class Application {
         System.out.println("something else");
 
         System.out.println("another something else");
+        System.out.println("next test part2");
     }
 }
